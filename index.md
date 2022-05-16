@@ -1,6 +1,8 @@
 ## 환영합니다! 챗봇 Hi-성남입니다.
 
-You can use the [editor on GitHub](https://github.com/Donghwanim/Hisn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+챗봇을 시작하기 전에,
+성남 홍보영상을 한 번 볼까요?
+[성남홍보영상](https://www.youtube.com/watch?v=mS6qjsT9mEg) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
