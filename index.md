@@ -1,10 +1,13 @@
-## 환영합니다! 챗봇 Hi-성남입니다.
+# 환영합니다! 챗봇 Hi-성남입니다.
 
-챗봇을 시작하기 전에,
-성남 홍보영상을 한 번 볼까요?
-[성남홍보영상](https://www.youtube.com/watch?v=mS6qjsT9mEg) 
+##챗봇을 시작하기 전에,
+성남 홍보영상을 한 번 볼까요?😊
+[클릭 성남홍보영상](https://www.youtube.com/watch?v=mS6qjsT9mEg) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+성남에는 다양한 명소들이 있지요?
+Hi-성남 챗봇과 함께
+성남에 대해 더 알아보도록 해요.
 
 ### Markdown
 
