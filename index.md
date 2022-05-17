@@ -45,8 +45,8 @@
 
 # <span style='background-color:#dcffe4'>챗봇 제작자</span>
 ****
-* 현직 초등학교 3학년 담임교사
- ![챗봇이미지-2](https://user-images.githubusercontent.com/103113777/168704392-f5c6bce5-a365-4489-b99b-ffb7a793f5a6.jpg)
+ ![챗봇이미지-2](https://user-images.githubusercontent.com/103113777/168704392-f5c6bce5-a365-4489-b99b-ffb7a793f5a6.jpg)<br>
+ * 현직 초등학교 3학년 담임교사
 <br>
 <br>
 <br>
