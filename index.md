@@ -14,7 +14,6 @@
 <br>
 <br>
 <br>
-<br>
 
 # <span style='background-color:#dcffe4'>교육효과</span>
 ****
@@ -23,7 +22,6 @@
 학교에서 설명을 놓친 부분을 챗봇을 통해 스스로 자세히
 반복학습 할 수 있으므로, 성남에 대한 관심 및 자긍심도
 올라가고 교육적 효과가 클 것으로 기대합니다.
-<br>
 <br>
 <br>
 <br>
@@ -43,13 +41,11 @@
 <br>
 <br>
 <br>
-<br>
 
 # <span style='background-color:#dcffe4'>챗봇 제작자</span>
 ****
 * 현직 초등학교 3학년 담임교사
-* ![챗봇이미지-2](https://user-images.githubusercontent.com/103113777/168704392-f5c6bce5-a365-4489-b99b-ffb7a793f5a6.jpg)
-<br>
+ ![챗봇이미지-2](https://user-images.githubusercontent.com/103113777/168704392-f5c6bce5-a365-4489-b99b-ffb7a793f5a6.jpg)
 <br>
 <br>
 <br>
