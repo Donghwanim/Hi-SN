@@ -1,7 +1,7 @@
 <style>
   df-messenger {
-   --df-messenger-bot-message: #878fac;
-   --df-messenger-button-titlebar-color: #df9b56;
+   --df-messenger-bot-message: #df9b56;
+   --df-messenger-button-titlebar-color: #878fac;
    --df-messenger-chat-background-color: #fafafa;
    --df-messenger-font-color: white;
    --df-messenger-send-icon: #878fac;
