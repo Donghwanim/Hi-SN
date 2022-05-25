@@ -1,6 +1,4 @@
-body {
-        font-family: 'Nanum Gothic Coding';
-}
+
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
@@ -28,6 +26,9 @@ body {
     {% include head-custom.html %}
   </head>
   <body>
+          body {
+        font-family: 'Nanum Gothic Coding';
+}
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
