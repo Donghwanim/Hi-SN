@@ -5,7 +5,7 @@
    --df-messenger-button-titlebar-font-color: #FFFFFF;
    --df-messenger-chat-background-color: #FBF8EF;
    --df-messenger-font-color: #FFFFFF;
-   --df-messenger-send-icon: #21610B;
+   --df-messenger-send-icon: #E6E6E6;
    --df-messenger-user-message: #FF8000;
   }
 </style>
