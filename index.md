@@ -11,7 +11,6 @@
 
 # 우리고장성남 가이드 챗봇 : 하이성남🖐
 ****
-![마스코트](https://user-images.githubusercontent.com/103113777/168717847-22e67f47-8ddf-4a50-93b0-2fb25cc0374b.jpg)
 
 ## 환영합니다!😊 <br>
 ## 우리고장성남 가이드 챗봇, <span style="color:#008000"> 하이성남</span> 입니다.
