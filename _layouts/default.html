@@ -1,11 +1,15 @@
 
-<style>
-@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
-</style>
+
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <link href="//fonts.googleapis.com/earlyaccess/hanna.css" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/earlyaccess/nanumgothic.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+	.hanna { font-family: 'hanna'; }
+	.nanum { font-family: 'Nanum Barun Gothic'; }
+	</style>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +34,8 @@
   </head>
   
   <body>
-         
+         <h1 class="nanum">나눔고딕체</h1>
+<h1 class="hanna">한나체</h1>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
