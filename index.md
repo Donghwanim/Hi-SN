@@ -40,7 +40,7 @@
 <br>
 <br>
 
- <p><span style="border-radius: 5em; padding: 0.6em 1em; background: #F9F9F9; box-shadow: 1px 2px 10px rgba(0,0,0,0.2);  margin-left: 5px;">챗봇 활용방법</span></p>
+<p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">챗봇 활용방법</span></p>
 <br>
 **<span style="color:#008000">우리고장 성남교과서와 배움장</span>을 함께 봅니다.**
 ![우리고장 성남교과서](https://user-images.githubusercontent.com/103113777/168702289-57e10467-8375-498b-8496-2d122cd67c7e.JPG)
@@ -56,7 +56,7 @@
 <br>
 <br>
 
- <p><span style="border-radius: 5em; padding: 0.6em 1em; background: #F9F9F9; box-shadow: 1px 2px 10px rgba(0,0,0,0.2);  margin-left: 5px;">챗봇 제작자</span></p>
+ <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">챗봇 제작자</span></p>
 <br>
  ![챗봇이미지-2](https://user-images.githubusercontent.com/103113777/168704392-f5c6bce5-a365-4489-b99b-ffb7a793f5a6.jpg)<br>
  * 현직 초등학교 3학년 담임교사
@@ -65,7 +65,7 @@
 <br>
 <br>
 
- <p><span style="border-radius: 5em; padding: 0.6em 1em; background: #F9F9F9; box-shadow: 1px 2px 10px rgba(0,0,0,0.2);  margin-left: 5px;">참고자료</span></p>
+<p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">참고자료</span></p>
 <br>
 * 우리성남고장 E-book, 교사용 교과서
 <br>
