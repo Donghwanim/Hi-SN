@@ -16,7 +16,7 @@
 ## 환영합니다!😊 성남 가이드 챗봇, <span style="color:#008000"> 하이성남</span> 입니다.
 <br>
 <p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;">
-  <br>하이성남은<br><span style='background-color: #DAF8A3'>초등학교 3학년 학생들을 대상으로 또래 보조 교사의 역할</span>을 합니다.<br>
+  <br>챗봇, 하이성남은<br><span style='background-color: #DAF8A3'>초등학교 3학년 학생들을 대상으로 또래 보조 교사의 역할</span>을 합니다.<br>
   <span style='background-color: #DAF8A3'>우리고장성남교과서를 활용</span>하여 아래의 내용에 대해 교육합니다.<br><br>
   
  ◻   성남의 여러장소<br>
