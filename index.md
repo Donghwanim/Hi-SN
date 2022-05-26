@@ -10,7 +10,7 @@
   }
 </style>
 
-우리고장성남 가이드챗봇 : <p style="font-size: 35px; font-weight: bold; color: #D3DD08; text-shadow: 1px 1px 1.2px midnightblue;">하이성남🖐</p>
+<p style="font-size: 35px; font-weight: bold; color: #D3DD08; text-shadow: 1px 1px 1.2px midnightblue;"> 우리고장성남 가이드챗봇 : 하이성남🖐</p>
 ****
 <br>
 ## 환영합니다!🙋‍♀️🙋‍
