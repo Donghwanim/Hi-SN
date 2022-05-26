@@ -10,11 +10,10 @@
   }
 </style>
 
-<p style="font-size: 35px; font-weight: bold; color: #2A421D; text-shadow: 1px 1px 1.2px #FFFFFF;"> 우리고장성남 가이드 챗봇 : </p> <p style="font-size: 35px; font-weight: bold; color: #D3DD08; text-shadow: 1px 1px 1.2px midnightblue;"> 하이성남🖐</p>
+<p style="font-size: 35px; font-weight: bold; color: #2A421D; text-shadow: 1px 1px 1.2px #FFFFFF;"> 우리고장성남 가이드챗봇 :</p><p style="font-size: 35px; font-weight: bold; color: #D3DD08; text-shadow: 1px 1px 1.2px midnightblue;">하이성남🖐</p>
 ****
 
-### 환영합니다!😊
-### 성남 가이드 챗봇, <span style="color:#008000"> 하이성남</span> 입니다.
+### 환영합니다!😊### 성남 가이드 챗봇, <span style="color:#008000"> 하이성남</span> 입니다.
 <br>
 <p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;">
   <br>하이성남은<br><span style='background-color: #DAF8A3'>초등학교 3학년 학생들을 대상으로 또래 보조 교사의 역할</span>을 합니다.<br>
