@@ -46,9 +46,11 @@
 <br>
 
 <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">챗봇 활용방법</span></p>
-<br>
-**<span style="color:#008000">우리고장 성남교과서와 배움장</span>을 함께 봅니다.**
-![우리고장 성남교과서](https://user-images.githubusercontent.com/103113777/168702289-57e10467-8375-498b-8496-2d122cd67c7e.JPG)
+<p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;">
+◻   **<span style="color:#008000">우리고장 성남교과서와 배움장</span>을 함께 봅니다.**
+◻   아래의 표를 통해 page를 참고하여 학습합니다.
+![우리고장 성남교과서](https://user-images.githubusercontent.com/103113777/168702289-57e10467-8375-498b-8496-2d122cd67c7e.JPG)<br>
+  </p>
 
 | 학습내용 | 세부내용 | 교과서page | 배움장page |
 |:---:|:---:|:---:|:---:|
