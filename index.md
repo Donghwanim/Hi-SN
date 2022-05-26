@@ -25,10 +25,10 @@
   </p>
 <br>
 <br>
-
+<br>
 
 <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">교육효과</span></p>
-<br>
+
 <p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;"><br>
 학생들은 <span style="color:#008000">하이성남 챗봇</span> 을 통해 우리고장성남에 대해
 더 잘 알 수 있고, 1:1 대화를 하며 학습할 수 있습니다.
