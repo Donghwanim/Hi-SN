@@ -32,9 +32,9 @@
 
 <p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;"><br>
 학생들은 <span style="color:#008000">하이성남 챗봇</span> 을 통해 우리고장성남에 대해
-더 잘 알 수 있고, 1:1 대화를 하며 학습할 수 있습니다.
-학교에서 설명을 놓친 부분을 챗봇을 통해 스스로 자세히
-반복학습 할 수 있으므로, 성남에 대한 관심 및 자긍심도
+더 잘 알 수 있고, <span style='background-color: #DAF8A3'>1:1 대화를 하며 학습</span>할 수 있습니다.
+학교에서 설명을 놓친 부분을 챗봇을 통해 <span style='background-color: #DAF8A3'>스스로 자세히
+  반복학습</span> 할 수 있으므로, <span style='background-color: #DAF8A3'>성남에 대한 관심 및 자긍심</span>도
 올라가고 교육적 효과가 클 것으로 기대합니다. <br> 
   
 <br>  
@@ -47,7 +47,7 @@
 
 <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">챗봇 활용방법</span></p>
 <p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;">
-◻   <span style="color:#008000">우리고장 성남교과서와 배움장</span>을 함께 봅니다.<br>
+◻   <span style='background-color: #DAF8A3'>우리고장 성남교과서와 배움장을 함께 봅니다.</span><br>
 ◻   아래의 표를 통해 page를 참고하여 학습합니다. <br></p>
 ![우리고장 성남교과서](https://user-images.githubusercontent.com/103113777/168702289-57e10467-8375-498b-8496-2d122cd67c7e.JPG)
   
