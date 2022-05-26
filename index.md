@@ -10,10 +10,10 @@
   }
 </style>
 
-<p style="font-size: 35px; font-weight: bold; color: #D3DD08; text-shadow: 2px 2px 2px midnightblue;"> 우리고장성남 가이드챗봇 : 하이성남</p>
+<p style="font-size: 35px; font-weight: bold; color: #D3DD08; text-shadow: 2px 2px 2px midnightblue;"> 고장성남 가이드챗봇 : 하이성남🖐️</p>
 ****
 <br>
-## 환영합니다!🙋‍♀️🙋‍
+## 환영합니다!☺️
 ## 성남 가이드 챗봇, <span style="color:#008000"> 하이성남</span> 입니다.
 <br>
 <p style="border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;">
