@@ -16,13 +16,14 @@
 ### 환영합니다!😊 <br>
 ### 우리고장성남 가이드 챗봇, <span style="color:#008000"> 하이성남</span> 입니다.
 <br><br>
-<p style="border: 1px solid #D4FCBF; padding: 0.3em 1em;border-radius: 2px;">
+<p><span style="border-radius: 15px 15px 15px 0; border: 3px solid #FFAD5B; padding: 0.5em 0.6em; color: #FF8000;">
   하이성남은<br> 초등3학년 학생들을 대상으로 또래 보조 교사의 역할을 합니다.<br>
 <u>우리고장성남교과서를 활용</u>하여 아래의 내용에 대해 교육합니다.<br>
- - [x]   성남의 여러장소
- - [x]   성남의 모습
- - [x]   성남의 옛이야기
-</p>
+ ✅   성남의 여러장소
+ ✅   성남의 모습
+ ✅   성남의 옛이야기
+<
+  </p>
 <br>
 <br>
 <br>
