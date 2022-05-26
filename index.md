@@ -42,7 +42,7 @@
 
  <p><span style="border-radius: 5em; padding: 0.6em 1em; background: #F9F9F9; box-shadow: 1px 2px 10px rgba(0,0,0,0.2);  margin-left: 5px;">챗봇 활용방법</span></p>
 <br>
-**<span style="color:#008000">우리고장 성남교과서와 배움장</span>을 보면서 하이챗봇과 대화하면 더욱 좋습니다.**
+**<span style="color:#008000">우리고장 성남교과서와 배움장</span>을 함께 봅니다.**
 ![우리고장 성남교과서](https://user-images.githubusercontent.com/103113777/168702289-57e10467-8375-498b-8496-2d122cd67c7e.JPG)
 
 | 학습내용 | 세부내용 | 교과서page | 배움장page |
