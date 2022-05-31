@@ -75,7 +75,8 @@
 
 <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">참고자료</span></p>
 <br>
-* 우리성남고장 E-book, 교사용 교과서
+* 디지털 성남 문화대전(http://seongnam.grandculture.net/seongnam)
+* 우리성남고장 E-book, 교사용 교과서, 배움장
 * https://blog.naver.com/kebikids/220788589377
 <br>
 
