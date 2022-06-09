@@ -20,6 +20,7 @@
   <br>챗봇, 하이성남은<br><span style='background-color: #DAF8A3'>초등학교 3학년학생을 대상으로 보조 교사의 역할</span>을 합니다.<br>
   <span style='background-color: #DAF8A3'>우리고장성남교과서를 활용</span>하여 아래의 내용을 교육합니다.<br><br>
   
+ ◻   성남의 상징<br>
  ◻   성남의 여러장소<br>
  ◻   성남의 모습<br>
  ◻   성남의 옛이야기<br><br>
