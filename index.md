@@ -82,7 +82,7 @@
 
 
  <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">성남 소개 영상</span></p>
- <iframe width="1268" height="713" src="https://www.youtube.com/embed/mS6qjsT9mEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{height=400px width=500px}
+ <iframe width="1268" height="713" src="https://www.youtube.com/embed/mS6qjsT9mEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{height=400px width=500px}</iframe>
 
 
 
@@ -91,7 +91,7 @@
 * 디지털 성남 문화대전(http://seongnam.grandculture.net/seongnam)
 * 우리성남고장 E-book, 교사용 교과서, 배움장
 * 유튜브채널 경기온나눔콘텐츠
-* 유튜브채널 경기온나눔콘텐츠
+* 유튜브채널 경기도성남교육지원청
 <br>
 
 
