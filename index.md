@@ -82,7 +82,7 @@
 
 
  <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">성남 소개 영상</span></p>
- <iframe width="1268" height="713" src="https://www.youtube.com/embed/mS6qjsT9mEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="1268" height="713" src="https://www.youtube.com/embed/mS6qjsT9mEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{height=400px width=500px}
 
 
 
