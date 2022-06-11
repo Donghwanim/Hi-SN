@@ -90,8 +90,7 @@
 <br>
 * 디지털 성남 문화대전(http://seongnam.grandculture.net/seongnam)
 * 우리성남고장 E-book, 교사용 교과서, 배움장
-* https://blog.naver.com/kebikids/220788589377
-* 유튜브체널 
+* 유튜브채널 경기온나눔콘텐츠/
 <br>
 
 
